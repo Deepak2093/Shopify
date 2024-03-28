@@ -1,0 +1,122 @@
+[
+    {
+      "id":1,
+       "img":"https://media.istockphoto.com/id/1386479313/photo/happy-millennial-afro-american-business-woman-posing-isolated-on-white.jpg?s=2048x2048&w=is&k=20&c=JecbHiBxM7ZzAADbPkqJuvNoCs3uO2VrK2LmrSpm3Ek=",
+       "name":"george wastson",
+        "latitude" : 30.7650, 
+        "longitude" : 76.7750,
+       "email":"george@yopmail.com",
+       "location":"https://www.google.com/maps/search/Superintended+Hospital+Engineer+Building,chadigarh/@30.7511462,76.7590423,14z/data=!3m1!4b1?entry=ttu",
+       "phone":"9236894",
+        "isActive":false
+    },
+    
+    {
+      "id":2,
+        "img":"https://media.istockphoto.com/id/1406197730/photo/portrait-of-a-young-handsome-indian-man.jpg?s=2048x2048&w=is&k=20&c=lDJRQWb0FtKq9R8biMKvGGZVqn0sVGlUHDPoxR83nWc=",
+        "name":"Charles Darwin",
+        "latitude" : 30.8856, 
+        "longitude" : 75.7882,
+        "email":"charlesd123@yopmail.com",
+        "location":"https://www.google.com/maps/place/Leadmagnet+Private+Limited/@30.885637,75.7856252,17z/data=!3m1!4b1!4m6!3m5!1s0x391a81f6c160f927:0xbf186397f8a9b08e!8m2!3d30.885637!4d75.7882001!16s%2Fg%2F11h0bksd18?entry=ttu",
+
+        "phone":"9023648",
+        "isActive":false
+
+ 
+     },
+     
+    {
+      "id":3, 
+      "img":"https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.webp?b=1&s=170667a&w=0&k=20&c=YQ_j83pg9fB-HWOd1Qur3_kBmG_ot_hZty8pvoFkr6A=",
+        "name":"Veena Smith",
+        "latitude" : 30.938531, 
+        "longitude" : 75.8740475,
+        "email":"VeenaSmith@yopmail.com",
+        "location":"https://www.google.com/maps/place/Sub+Registrar+Office+West/@30.9033011,75.810145,17z/data=!3m1!4b1!4m6!3m5!1s0x391a83deaaaaaaab:0x6a919a2d8edc4cad!8m2!3d30.9033011!4d75.8127199!16s%2Fg%2F11dx9fg8hd?entry=ttu",
+        "phone":"902364847",
+        "isActive":false
+
+ 
+     },
+     {
+      "id":4,
+        "img":"https://media.istockphoto.com/id/1493539587/photo/portrait-of-businessman-shaking-head-in-acceptance.jpg?s=2048x2048&w=is&k=20&c=2-qfponmnJTcQebaQIKo8VA__ml42_NWy3BT_0Xn378=",
+        "name":"Jaane Cooper",
+        "latitude" : 30.836399, 
+        "longitude" : 76.189972,
+        "email":"Jaane123@yopmail.com",
+        "location":"https://www.google.com/maps/search/%22Govt.+Boys+Senior+Secondary+School+Samrala/@30.866027,75.8520178,11z/data=!3m1!4b1?entry=ttu",
+        "phone":"90236489",
+        "isActive":false
+
+ 
+     },
+     
+     {
+      "id":5,
+         "img":"https://media.istockphoto.com/id/1182967319/photo/smiling-businessman-executive-looking-at-camera-in-office-business-portrait.jpg?s=612x612&w=0&k=20&c=ri7cNnP7TGr3i9iP3teOU-7ynqwmnuMm3lRpJ3yvkds=",
+         "name":"Wade Watten",
+         "latitude" : 30.7145, 
+         "longitude" : 76.7149,
+          "email":"wadewatten23@yopmail.com",
+          "location":"https://www.google.com/maps/search/RohtakVibe,+Sector+60,+Mohali/@30.7110541,76.7106103,15z/data=!3m1!4b1?entry=ttu",
+         "phone":"902364894",
+         "isActive":false
+
+  
+      },
+      
+     {
+      "id":6,
+         "img":"https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+         "name":"Eddie",
+         "latitude" : 30.7102, 
+         "longitude" : 76.6873,    
+         "email":"eddie4535@yopmail.com",
+         "location":"https://www.google.com/maps/place/Sector+74+A,+Sahibzada+Ajit+Singh+Nagar,+Punjab+140307/@30.7179861,76.6689921,15z/data=!3m1!4b1!4m6!3m5!1s0x390fefae728f0701:0x21e4c46cd084524c!8m2!3d30.7177858!4d76.6788091!16s%2Fg%2F11b77cx945?entry=ttu",
+         "phone":"902364894",
+         "isActive":false
+
+      },
+      {      "id":7,
+        "img":"https://media.istockphoto.com/id/1472540078/photo/cheerful-man-pointing-at-copy-space-on-his-finger-showing-empty-place-for-idea-presentation.jpg?s=612x612&w=0&k=20&c=_jRTk_77uWZVm57ZhwL3QUkBCorPZcOKCuGhIPRfTnc=",
+        "name":"Bobby Goins",
+        "latitude" : 30.7312, 
+        "longitude" : 76.7182,       
+         "email":"bobbygoin4648@yopmail.com",
+         "location":"https://www.google.com/maps/search/Sector+55,+Sector+54,+Sahibzada+Ajit+Singh+Nagar+District/@30.7257452,76.7130427,15z/data=!3m1!4b1?entry=ttu",
+        "phone":"9023648",
+        "isActive":false
+
+ 
+     },
+     
+     {
+      "id":8,
+         "img":"https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=600",
+         "name":"Wayne Gunther",
+         "latitude" : 30.6797, 
+         "longitude" : 76.8454,     
+         "email":"wayne8903@yopmail.com",
+         "location":"https://www.google.com/maps/search/%22Kishan+Bhawan,+Shahid+Bhagat+Singh+Chowk,+Sector+14,+Panchkula/@30.7319894,76.7602261,17z/data=!3m1!4b1?entry=ttu",
+         "phone":"902364894",
+         "isActive":false
+
+  
+      },
+      
+     {
+      "id":9,
+         "img":"https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=600",
+         "name":"Jack",
+         "latitude" : 30.7650, 
+         "longitude" : 76.7750, 
+        "email":"jack90800@yopmail.com",
+        "location":"https://www.google.com/maps/search/Superintended+Hospital+Engineer+Building,chadigarh/@30.7511462,76.7590423,14z/data=!3m1!4b1?entry=ttu",
+        "phone":"902364894",
+         "isActive":false
+
+  
+      }
+]
